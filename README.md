@@ -13,7 +13,7 @@ Esse projeto foi o que mais me permitiu elevar minhas habilidades na linguagem J
 <div align="center"> (click on the image below to see the page) </div>
 <br>
 <div align= "center">
-<a href= https://ph-bicalho.github.io/memory-game">    
+<a href= https://ph-bicalho.github.io/memory-game>    
   <img src="https://user-images.githubusercontent.com/93494879/149800019-d966b85c-7234-4458-b946-866002c2abea.gif">
 </a>
 </div>
